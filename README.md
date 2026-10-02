@@ -1,6 +1,6 @@
 # P6. Intent-classifying help-desk chatbot with out-of-scope detection
 
-**Team:** Afzal (Member A, model lead) and Shachi (Member B, application lead)
+**Team:** Shachi (Member A, model lead) and Afzal (Member B, application lead)
 
 A text chatbot whose brain is an MLP intent classifier over the 150 intents of CLINC150. Queries whose top softmax confidence is below a threshold are treated as out-of-scope (OOS), and the bot asks the user to rephrase.
 
