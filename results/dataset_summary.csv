@@ -1,0 +1,10 @@
+config,split,rows,in_scope,oos,min_per_intent,max_per_intent
+small,train,7600,7500,100,50,50
+small,validation,3100,3000,100,20,20
+small,test,5500,4500,1000,30,30
+imbalanced,train,10625,10525,100,25,100
+imbalanced,validation,3100,3000,100,20,20
+imbalanced,test,5500,4500,1000,30,30
+plus,train,15250,15000,250,100,100
+plus,validation,3100,3000,100,20,20
+plus,test,5500,4500,1000,30,30

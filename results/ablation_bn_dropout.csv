@@ -1,0 +1,7 @@
+batchnorm,dropout,epochs_run,val_acc
+False,0.0,11,0.91
+False,0.3,6,0.91
+False,0.5,10,0.915
+True,0.0,5,0.907
+True,0.3,7,0.9076666666666666
+True,0.5,5,0.9093333333333333

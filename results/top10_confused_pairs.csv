@@ -1,0 +1,11 @@
+intent_a,intent_b,a_as_b,b_as_a,total,examples_a_predicted_b,examples_b_predicted_a
+change_user_name,user_name,8,2,10,can you call me a different name | could you call me a different name,what do i go by | what did i tell you to call me
+credit_score,improve_credit_score,1,9,10,i'm trying to raise my credit score can you tell me what it is now,how can i contribute to my credit score | how can i up my credit score
+redeem_rewards,rewards_balance,9,0,9,what are my mastercard points good for | how many points do i have to cash,
+todo_list,todo_list_update,3,6,9,"did i add ""cleaning the foyer"" to my todo list yet | have i told you to add washing dishes to my todo list",i don't need mowing the lawn on my to do list anymore | empty the contents of my to do list
+calendar,calendar_update,8,0,8,did i set march 10th as my doctor's appointment | did i mark the mechanic's appointment on my calendar,
+current_location,share_location,4,4,8,where am i currently | whats my location,i'd like for this person to know my location | what is my current location
+ingredients_list,recipe,6,1,7,what is needed to make lasagna | what is needed to cook lasagna,what do i need to do to cook a chicken
+meal_suggestion,restaurant_suggestion,3,3,6,what are good thai dishes | i need options or italian tonight,"i need some suggestions for dinner places tonight | could you suggest a french restaurant, please"
+pto_request,pto_request_status,4,2,6,how is a vacation request done | how is a vacation request made,is vacation a go | am i okay to take those vacation days
+bill_due,pay_bill,3,3,6,what's the latest i can pay my cellular bill | what's the ultimate day for me to pay the internet bill,"i have a car payment that needs to be paid | today my electric bill will be paid, or should be"
